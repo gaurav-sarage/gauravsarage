@@ -1,9 +1,9 @@
 <h1 align="center">
-  vatsalsinghkv.vercel.app
+  gaurav-sarage.vercel.app
 </h1>
 
 <p align="center">
-  A portfolio website i.e. <a href="https://vatsalsinghkv.vercel.app" target="_blank">vatsalsinghkv.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website i.e. <a href="https://gaurav-sarage.vercel.app" target="_blank">gaurav-sarage.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Version-1.3.1-blue"/ >
 </p>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://vatsalsinghkv.vercel.app/)
+[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://gaurav-sarage.vercel.app/)
 
 ## Sections
 
@@ -39,7 +39,7 @@
 
 1. Fork this repository and clone the project
 
-###### Please give me proper credit by linking back to [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app).
+###### Please give me proper credit by linking back to [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app/).
 
 ```bash
   git clone https://github.com/<YOUR USERNAME>/portfolio-website.git
@@ -81,14 +81,11 @@
 
 ## Contact
 
-- Website - [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app)
-- Github - [@vatsalsinghkv](https://github.com/vatsalsinghkv)
-- LinkedIn - [@vatsalsinghkv](https://www.linkedin.com/in/vatsalsinghkv/)
-- Twitter - [@vatsalsinghkv](https://www.twitter.com/vatsalsinghkv)
-- Instagram - [@vatsalsinghkv](https://www.instagram.com/vatsalsinghkv)
-- Facebook - [@vatsalsinghkv](https://www.facebook.com/vatsal.singh.kv)
-- devChallenges - [@vatsalsinghkv](https://devchallenges.io/portfolio/vatsalsinghkv)
-- Frontend Mentor - [@vatsalsinghkv](https://www.frontendmentor.io/profile/vatsalsinghkv)
+- Website - [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app)
+- Github - [@gaurav-sarage](https://github.com/gaurav-sarage)
+- LinkedIn - [@gaurav-sarage](https://www.linkedin.com/in/gaurav-sarage/)
+- Twitter - [@gauravsarage4](https://www.twitter.com/gauravsarage4)
+- Instagram - [@gauravsarage_19](https://www.instagram.com/gauravsarage_19)
 
 ## Acknowledgements
 

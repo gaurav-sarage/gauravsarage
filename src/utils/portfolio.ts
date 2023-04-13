@@ -344,24 +344,6 @@ export const projectsSection: ProjectsSectionType = {
       year: 2021,
       tags: ['html', 'CSS', 'JS'],
     },
-    {
-      id: getId(),
-      name: '',
-      url: '',
-      repo: '',
-      img: '',
-      year: 2021,
-      tags: ['html', 'CSS', 'JS'],
-    },
-    {
-      id: getId(),
-      name: '',
-      url: '',
-      repo: '',
-      img: '',
-      year: 2021,
-      tags: ['html', 'CSS', 'JS'],
-    },
   ],
 };
 
