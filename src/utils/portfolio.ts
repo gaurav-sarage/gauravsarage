@@ -171,26 +171,13 @@ export const experienceSection: ExperienceSectionType = {
     {
       company: 'Persist Ventures',
       companyUrl: 'https://persistventures.com',
-      role: 'Technical Operations',
-      started: 'December 2021',
-      upto: 'Present',
+      role: 'Fullstack Developer Intern',
+      started: 'Janurary 2023',
+      upto: 'April 2023',
       tasks: [
-        'Worked with React.js, Node.js, MongoDB and AWS to create the fully functional website as per client requests.',
-        'Developed website from scratch as per given Figma design.',
+        'Developed and maintained code for in-house and client websites primarily using React.js, Node.js, Express.js & MongoDB.',
+        'Communicate with multi-disciplinary teams of engineers, designers and clients on a daily basis',
         'Reviewed and approved multiple pull requests.',
-        ''
-      ],
-    },
-    {
-      company: 'Yellow Fryum',
-      companyUrl: 'https://yellowfryum.com',
-      role: 'Frontend Developer & Customer Research Intern',
-      started: 'March 2022',
-      upto: 'May 2022',
-      tasks: [
-        'Utilized React & Tailwind CSS to create modern, cross-browser user interface and increased customer interaction by nearly 25% on the website.',
-        'Worked remotely with Customer Research team and utilized "Yellow Pages" to outsource potential clients in the state of Connecticut.',
-        'Developed and optimized web pages and applications by writing clean, structured and reusable code and debugged and tested code to ensure accuracy and functionality.',
       ],
     },
     {
@@ -204,6 +191,18 @@ export const experienceSection: ExperienceSectionType = {
         "Underwent a 5 week program under mentorship of professionals from StarkNet ecosystem. ",
         "Learnt how to setup Cairo environment, blockchain, basics of ZK and Cairo, writing smart contracts and Starklings.",
         "Earned an exclusive NFT as proof of completion and custom swag kit.",
+      ],
+    },
+    {
+      company: 'Yellow Fryum',
+      companyUrl: 'https://yellowfryum.com',
+      role: 'Frontend Developer & Customer Research Intern',
+      started: 'March 2022',
+      upto: 'May 2022',
+      tasks: [
+        'Utilized React & Tailwind CSS to create modern, cross-browser user interface and increased customer interaction by nearly 25% on the website.',
+        'Worked remotely with Customer Research team and utilized "Yellow Pages" to outsource potential clients in the state of Connecticut.',
+        'Developed and optimized web pages and applications by writing clean, structured and reusable code and debugged and tested code to ensure accuracy and functionality.',
       ],
     },
     {
