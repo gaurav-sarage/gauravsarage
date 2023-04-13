@@ -169,16 +169,16 @@ export const experienceSection: ExperienceSectionType = {
   title: "My experience and volunteering",
   experiences: [
     {
-      company: 'AirMenus',
-      companyUrl: 'https://about.airmenus.in/',
+      company: 'Persist Ventures',
+      companyUrl: 'https://persistventures.com',
       role: 'Technical Operations',
       started: 'December 2021',
       upto: 'Present',
       tasks: [
-        'Worked with React & Tailwind to create the partner dashboard for brands.',
-        'Added the categories "loyalty", "reservations" & "customers" to the dashboard to track the customers and help the brands understand their product insights.',
+        'Worked with React.js, Node.js, MongoDB and AWS to create the fully functional website as per client requests.',
+        'Developed website from scratch as per given Figma design.',
         'Reviewed and approved multiple pull requests.',
-        'Resolve client issues over dashboard & delivery partner organizations.',
+        ''
       ],
     },
     {
