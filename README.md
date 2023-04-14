@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Version-1.3.1-blue"/ >
 </p>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://gaurav-sarage.vercel.app/)
+![gaurav-sarage-nextjs-portfolio](https://user-images.githubusercontent.com/85820227/231833369-cecb13b5-3598-4f0a-b7dc-460a1e206e93.png)
 
 ## Sections
 
@@ -42,7 +42,7 @@
 ###### Please give me proper credit by linking back to [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app/).
 
 ```bash
-  git clone https://github.com/<YOUR USERNAME>/portfolio-website.git
+  git clone https://github.com/gaurav-sarage/portfolio-website.git
 ```
 
 2. Go to the project directory
