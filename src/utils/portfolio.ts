@@ -96,12 +96,12 @@ export const aboutSection: AboutSectionType = {
   list: {
     title: 'Here are a few technologies I’ve been working with recently:',
     items: [
-      'NextJs',
+      'Next.js',
+      'React.js',
       'TailwindCSS',
-      'ExpressJs',
       'Solidity',
-      'Web3Js',
-      'Cairo'
+      'Cairo',
+      'Hardhat',
     ],
   },
   img: '/gaurav-sarage.jpg',
@@ -349,42 +349,42 @@ export const projectsSection: ProjectsSectionType = {
 
 // * Contact Section
 
-// export const contactSection: ContactSectionType = {
-//   title: 'get in touch',
-//   subtitle: "what's next",
-//   paragraphs: [
-//     "I'm currently looking for a remote job or any new opportunities.",
-//     'Whether you have a project to discuss or just want to say hi, my inbox is open for all!',
-//   ],
-//   link: `mailto:${author.email}`,
-// };
+export const contactSection: ContactSectionType = {
+  title: 'get in touch',
+  subtitle: "what's next",
+  paragraphs: [
+    "I'm currently looking for a remote job or any new opportunities.",
+    'Whether you have a project to discuss or just want to say hi, my inbox is open for all!',
+  ],
+  link: `mailto:${author.email}`,
+};
 
 // Social Links Section
 
-// export const socialSection: SocialSectionType = {
-//   socialLinks: [
-//     {
-//       icon: 'tabler:brand-github',
-//       url: socialLinks.github,
-//     },
-//     {
-//       icon: 'mdi:instagram',
-//       url: socialLinks.instagram,
-//     },
-//     {
-//       icon: 'lucide:twitter',
-//       url: socialLinks.twitter,
-//     },
-//     {
-//       icon: 'lucide:linkedin',
-//       url: socialLinks.linkedin,
-//     },
-//   ],
-// };
+export const socialSection: SocialSectionType = {
+  socialLinks: [
+    {
+      icon: 'tabler:brand-github',
+      url: socialLinks.github,
+    },
+    {
+      icon: 'mdi:instagram',
+      url: socialLinks.instagram,
+    },
+    {
+      icon: 'lucide:twitter',
+      url: socialLinks.twitter,
+    },
+    {
+      icon: 'lucide:linkedin',
+      url: socialLinks.linkedin,
+    },
+  ],
+};
 
 // Footer Section
 
-// export const footerSection: FooterSectionType = {
-//   title: 'Design & Built by Gaurav Sarage',
-//   link: 'https://github.com/gaurav-sarage',
-// };
+export const footerSection: FooterSectionType = {
+  title: 'Design & Built by Gaurav Sarage',
+  link: 'https://github.com/gaurav-sarage',
+};
