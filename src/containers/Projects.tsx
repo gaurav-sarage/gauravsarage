@@ -32,7 +32,7 @@ const Projects = () => {
                 initial="hidden"
                 whileInView="show"
                 custom={i}
-                viewport={{ once: true }}
+              // viewport={{ once: true }}
               />
             );
           }
