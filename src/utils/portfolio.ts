@@ -302,47 +302,12 @@ export const projectsSection: ProjectsSectionType = {
     },
     {
       id: getId(),
-      name: '',
-      url: '',
-      repo: '',
-      img: '',
+      name: 'Hackathon Portfolio',
+      url: 'https://gaurav-sarage.github.io/webathon-portfolio/',
+      repo: 'https://github.com/gaurav-sarage/webathon-portfolio',
+      img: 'https://user-images.githubusercontent.com/85820227/233788920-7c76e976-2f42-4750-a6ce-ad0fb2eb405d.png',
       year: 2022,
-      tags: ['html', 'sass', 'JS'],
-    },
-    // {
-    //   name: 'nexter',
-    //   url: 'https://Gauravsinghkv.github.io/nexter/',
-    //   repo: 'https://github.com/Gauravsinghkv/nexter',
-    //   img: 'https://user-images.githubusercontent.com/68834718/210224671-5501c5d9-a8d2-4044-a14c-38fb7e46a113.png',
-    //   year: 2021,
-    //   tags: ['html', 'sass'],
-    // },
-    {
-      id: getId(),
-      name: '',
-      url: '',
-      repo: '',
-      img: '',
-      year: 2021,
-      tags: ['html', 'bootstrap', 'JS'],
-    },
-    {
-      id: getId(),
-      name: '',
-      url: '',
-      repo: '',
-      img: '',
-      year: 2021,
-      tags: ['html', 'CSS', 'JS'],
-    },
-    {
-      id: getId(),
-      name: '',
-      url: '',
-      repo: '',
-      img: '',
-      year: 2021,
-      tags: ['html', 'CSS', 'JS'],
+      tags: ['HTML', 'CSS', 'JavaScript'],
     },
   ],
 };
@@ -385,6 +350,6 @@ export const socialSection: SocialSectionType = {
 // Footer Section
 
 export const footerSection: FooterSectionType = {
-  title: 'Design & Built by Gaurav Sarage',
-  link: 'https://github.com/gaurav-sarage',
+  title: 'Design Inspiration @Brittany Chiang',
+  link: 'https://github.com/bchiang7',
 };
