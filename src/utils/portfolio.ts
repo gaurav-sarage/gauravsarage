@@ -20,7 +20,7 @@ import { getId } from './helper';
  */
 
 export const socialLinks: StringKeyValueType = {
-  instagram: 'https://www.instagram.com/gauravsarage_19',
+  instagram: 'https://www.instagram.com/gauravv1902',
   twitter: 'https://twitter.com/gauravsarage4',
   github: 'https://github.com/gaurav-sarage',
   linkedin: 'https://www.linkedin.com/in/gaurav-sarage/',
@@ -75,12 +75,12 @@ export const navbarSection: NavbarSectionType = {
 // * Hero Section
 
 export const heroSection: HeroSectionType = {
-  subtitle: 'Hi, my name is',
+  subtitle: "Hello fren 👋, I'm ",
   title: 'Gaurav Sarage.',
   tagline: 'I create visually appealing interfaces on the web',
   description:
-    "I'm a passionate Full Stack web developer having an experience of web  applications with ReactJs, NextJs and Blockchain Development on Ethereum, Solidity and Cairo",
-  specialText: 'Currently working as a freelancer and looking for a remote job',
+    "I'm a passionate Fullstack Web Developer having an experience of creating web applications using ReactJS & NextJS. ",
+  specialText: "Organizer @The Phoenix Guild - Pune",
 
   cta: {
     title: 'see my resume',
@@ -169,15 +169,15 @@ export const experienceSection: ExperienceSectionType = {
   title: "My experience and volunteering",
   experiences: [
     {
-      company: 'Persist Ventures',
-      companyUrl: 'https://persistventures.com',
-      role: 'Fullstack Developer Intern',
-      started: 'Janurary 2023',
-      upto: 'April 2023',
+      company: 'AirMenus',
+      companyUrl: 'https://about.airmenus.in',
+      role: 'Frontend Developer Intern',
+      started: 'Oct 2022',
+      upto: 'Present',
       tasks: [
-        'Developed and maintained code for in-house and client websites primarily using React.js, Node.js, Express.js & MongoDB.',
-        'Communicate with multi-disciplinary teams of engineers, designers and clients on a daily basis',
-        'Reviewed and approved multiple pull requests.',
+        'Utilized HTML, CSS, JavaScript & React to develop and maintain responsive websites for clients ensuring optimal user experience and functionality',
+        'Interacted directly with clients and translated their needs into       actionable development tasks to deliver satisfactory results.',
+        'Adapted quickly to changing project requirements, timelines, and priorities within a fast-paced startup environment.',
       ],
     },
     {
@@ -196,7 +196,7 @@ export const experienceSection: ExperienceSectionType = {
     {
       company: 'Yellow Fryum',
       companyUrl: 'https://yellowfryum.com',
-      role: 'Frontend Developer & Customer Research Intern',
+      role: 'Frontend Developer & Research Intern',
       started: 'March 2022',
       upto: 'May 2022',
       tasks: [

@@ -21,6 +21,8 @@ export interface HeroSectionType extends Section {
   tagline: string;
   description?: string;
   specialText?: string;
+  // company?: string;
+  // companyUrl?: string;
   cta?: CTAType & {
     hideInDesktop?: boolean;
   };
