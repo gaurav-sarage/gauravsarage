@@ -242,7 +242,7 @@ export const projectsSection: ProjectsSectionType = {
       name: 'Photo Gallery App (React)',
       url: 'https://gsierra19-photo-gallery-app.web.app/',
       repo: 'https://github.com/gaurav-sarage/photo-gallery-app',
-      img: 'https://github-production-user-asset-6210df.s3.amazonaws.com/85820227/250177861-cd5a5cd8-590e-49a1-92b5-4273aeee2f57.png',
+      img: 'https://user-images.githubusercontent.com/85820227/250177861-cd5a5cd8-590e-49a1-92b5-4273aeee2f57.png',
       year: 2023,
       tags: ['ReactJS', 'CSS', 'JavaScript'],
     },
