@@ -239,6 +239,15 @@ export const projectsSection: ProjectsSectionType = {
   projects: [
     {
       id: getId(),
+      name: 'Photo Gallery App (React)',
+      url: 'https://gsierra19-photo-gallery-app.web.app/',
+      repo: 'https://github.com/gaurav-sarage/photo-gallery-app',
+      img: 'https://github.com/gaurav-sarage/photo-gallery-app/assets/85820227/620d1f03-c1e5-4e29-8aa5-4f79f4462612',
+      year: 2023,
+      tags: ['ReactJS', 'CSS', 'JavaScript'],
+    },
+    {
+      id: getId(),
       name: 'Personal Portfolio',
       url: 'https://gs-portfolio-19.netlify.app/',
       repo: 'https://github.com/gaurav-sarage/personal-portfolio',
