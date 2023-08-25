@@ -200,9 +200,10 @@ export const experienceSection: ExperienceSectionType = {
       started: 'March 2022',
       upto: 'May 2022',
       tasks: [
-        'Utilized React & Tailwind CSS to create modern, cross-browser user interface and increased customer interaction by nearly 25% on the website.',
-        'Worked remotely with Customer Research team and utilized "Yellow Pages" to outsource potential clients in the state of Connecticut.',
-        'Developed and optimized web pages and applications by writing clean, structured and reusable code and debugged and tested code to ensure accuracy and functionality.',
+        "Spearheaded the design and development of a responsive landing page using ReactJS and Tailwind CSS, resulting in a               40% increase in page load speed",
+        'Worked closely with a cross-functional team of 5 interns to ideate and implement UI/UX improvements, resulting in a 20%          boost in user engagement and a 15% increase in conversion rates.',
+        'Conducted user research and usability testing, gathering feedback from over 100+ users, which directly influenced                design decisions and led to a 30% improvement in user satisfaction scores.',
+        "Met project deadlines consistently, delivering good-quality code and designs on time.",
       ],
     },
     {
