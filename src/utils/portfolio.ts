@@ -176,8 +176,8 @@ export const experienceSection: ExperienceSectionType = {
       upto: 'Present',
       tasks: [
         "Built 15+ dynamic web applications using React and Next.js, resulting in a 15% increase in user engagement.                      Collaborated closely 'with' the design team to implement pixel-perfect UI/UX designs, consistently delivering projects           on-time.",
-        'Interacted directly with clients and translated their needs into       actionable development tasks to deliver satisfactory results.',
-        'Adapted quickly to changing project requirements, timelines, and priorities within a fast-paced startup environment.',
+        "Developed and maintained responsive web applications for clients in the food and hospitality industry, enhancing their           online presence and customer engagement. Implemented Tailwind CSS to streamline the development process, reducing CSS            codebase by 20%",
+        "Collaborated with clients to gather project requirements and translate them into actionable technical tasks, ensuring            client expectations were met or exceeded.",
       ],
     },
     {
