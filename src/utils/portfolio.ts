@@ -21,7 +21,7 @@ import { getId } from './helper';
 
 export const socialLinks: StringKeyValueType = {
   instagram: 'https://www.instagram.com/gauravv1902',
-  twitter: 'https://twitter.com/gauravsarage4',
+  twitter: 'https://twitter.com/0xgauravv',
   github: 'https://github.com/gaurav-sarage',
   linkedin: 'https://www.linkedin.com/in/gaurav-sarage/',
 };
