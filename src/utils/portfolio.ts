@@ -175,7 +175,7 @@ export const experienceSection: ExperienceSectionType = {
       started: 'Oct 2022',
       upto: 'Present',
       tasks: [
-        'Utilized HTML, CSS, JavaScript & React to develop and maintain responsive websites for clients ensuring optimal user experience and functionality',
+        "Built 15+ dynamic web applications using React and Next.js, resulting in a 15% increase in user engagement.                      Collaborated closely 'with' the design team to implement pixel-perfect UI/UX designs, consistently delivering projects           on-time.",
         'Interacted directly with clients and translated their needs into       actionable development tasks to deliver satisfactory results.',
         'Adapted quickly to changing project requirements, timelines, and priorities within a fast-paced startup environment.',
       ],
